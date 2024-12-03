@@ -1,8 +1,5 @@
 package main
 
-import "fmt" 
-
 func main() {
-    fmt.Println("Wow")
-    DoDay1()
+    DoDay1Continue()
 }
